@@ -1,3 +1,3 @@
 # casamare
-start
-get commit -m "hello Ion"
+git commit -m "hello Ion"
+
